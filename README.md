@@ -1,2 +1,2 @@
 # adventofcode23
-my solutions of AoC 2023
+my solutions for AoC 2023
